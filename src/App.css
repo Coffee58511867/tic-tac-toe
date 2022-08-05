@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+}
+
+.btns {
+    color: green;
+    width: 80px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.board {
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+
+.board1 {
+    margin: auto;
+    text-align: center;
+}
+
+.restart {
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 130px;
+    height: 40px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+}
+
+.winner {
+    color: blueviolet;
+    font-style: italic;
+}
