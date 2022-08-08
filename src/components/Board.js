@@ -60,7 +60,7 @@ function Board() {
 
   return (
     <>
-      <h4> Current Player: {currentPlayer} </h4>{" "}
+      <h4 className="current" > Current Player: {currentPlayer} </h4>{" "}
       <div className="board1">
         <div className="board">
           {" "}
