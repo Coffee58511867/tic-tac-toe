@@ -30,7 +30,8 @@
     border-radius: 10px;
     font-weight: bold;
     border: none;
-    text-align: center;
+    margin-left: 430px;
+    margin-bottom: 40px;
 }
 
 .winner {
